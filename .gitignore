@@ -1,3 +1,5 @@
 node_modules/
-*.json
+src/scraper/scraper-ifoodmercado/city_markets_categories.json
+src/scraper/scraper-ifoodmercado/city_markets_items.json
+src/scraper/scraper-ifoodmercado/city_markets.json
 .env

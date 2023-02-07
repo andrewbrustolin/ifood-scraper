@@ -1,0 +1,327 @@
+[
+    {
+        "cidade": "São Paulo",
+        "latitude": "-23.5329",
+        "longitude": "-46.6395",
+        "cep_range": ["01000001","05999999"]
+    },
+    {
+        "cidade": "Rio de Janeiro",
+        "latitude": "-22.9129",
+        "longitude": "-43.2003",
+        "cep_range": ["20000001","23799999"]
+    },
+    {
+        "cidade": "Brasília",
+        "latitude": "-15.7795",
+        "longitude": "-47.9297",
+        "cep_range": ["70000001","72799999"]
+    },
+    {
+        "cidade": "Salvador",
+        "latitude": "-12.9718",
+        "longitude": "-38.5011",
+        "cep_range": ["40000001","42599999"]
+    },
+    {
+        "cidade": "Fortaleza",
+        "latitude": "-3.71664",
+        "longitude": "-38.5423",
+        "cep_range": ["60000001","61599999"]
+    },
+    {
+        "cidade": "Belo Horizonte",
+        "latitude": "-19.9102",
+        "longitude": "-43.9266",
+        "cep_range": ["30000001","31999999"]
+    },
+    {
+        "cidade": "Manaus",
+        "latitude": "-3.11866",
+        "longitude": "-60.0212",
+        "cep_range": ["69000001","69099999"]
+    },
+    {
+        "cidade": "Curitiba",
+        "latitude": "-25.4195",
+        "longitude": "-49.2646",
+        "cep_range": ["80000001","82999999"]
+    },
+    {
+        "cidade": "Recife",
+        "latitude": "-8.04666",
+        "longitude": "-34.8771",
+        "cep_range": ["50000001","52999999"]
+    },
+    {
+        "cidade": "Goiânia",
+        "latitude": "-16.6864",
+        "longitude": "-49.2643",
+        "cep_range": ["74000001","74899999"]
+    },
+    {
+        "cidade": "Belém",
+        "latitude": "-1.4554",
+        "longitude": "-48.4898",
+        "cep_range": ["35298000","35299999"]
+    },
+    {
+        "cidade": "Porto Alegre",
+        "latitude": "-30.0318",
+        "longitude": "-51.2065",
+        "cep_range": ["90000001","91999999"]
+    },
+    {
+        "cidade": "Guarulhos",
+        "latitude": "-23.4538",
+        "longitude": "-46.5333",
+        "cep_range": ["07000001","07399999"]
+    },
+    {
+        "cidade": "Campinas",
+        "latitude": "-22.9053",
+        "longitude": "-47.0659",
+        "cep_range": ["13000001","13139999"]
+    },
+    {
+        "cidade": "São Luís",
+        "latitude": "-2.53874",
+        "longitude": "-44.2825",
+        "cep_range": ["65000001","65109999"]
+    },
+    {
+        "cidade": "São Gonçalo",
+        "latitude": "-22.8268",
+        "longitude": "-43.0634",
+        "cep_range": ["24400001","24799999"]
+    },
+    {
+        "cidade": "Maceió",
+        "latitude": "-9.66599",
+        "longitude": "-35.735",
+        "cep_range": ["57000001","57099999"]
+    },
+    {
+        "cidade": "Duque de Caxias",
+        "latitude": "-22.7858",
+        "longitude": "-43.3049",
+        "cep_range": ["25000001","25499999"]
+    },
+    {
+        "cidade": "Campo Grande",
+        "latitude": "-20.4486",
+        "longitude": "-54.6295",
+        "cep_range": ["79000001","79124999"]
+    },
+    {
+        "cidade": "Natal",
+        "latitude": "-5.79357",
+        "longitude": "-35.1986",
+        "cep_range": ["59000001","59139999"]
+    },
+    {
+        "cidade": "Teresina",
+        "latitude": "-5.09194",
+        "longitude": "-42.8034",
+        "cep_range": ["64000001","64099999"]
+    },
+    {
+        "cidade": "São Bernardo do Campo",
+        "latitude": "-23.6914",
+        "longitude": "-46.5646",
+        "cep_range": ["09600001","09899999"]
+    },
+    {
+        "cidade": "João Pessoa",
+        "latitude": "-7.11509",
+        "longitude": "-34.8641",
+        "cep_range": ["58000001","58099999"]
+    },
+    {
+        "cidade": "Nova Iguaçu",
+        "latitude": "-22.7556",
+        "longitude": "-43.4603",
+        "cep_range": ["26000001","26099999"]
+    },
+    {
+        "cidade": "São José dos Campos",
+        "latitude": "-23.1896",
+        "longitude": "-45.8841",
+        "cep_range": ["12200001","12248999"]
+    },
+    {
+        "cidade": "Santo André",
+        "latitude": "-23.6737",
+        "longitude": "-46.5432",
+        "cep_range": ["09000001","09299999"]
+    },
+    {
+        "cidade": "Ribeirão Preto",
+        "latitude": "-21.1699",
+        "longitude": "-47.8099",
+        "cep_range": ["14000001","14114999"]
+    },
+    {
+        "cidade": "Jaboatão dos Guararapes",
+        "latitude": "-8.11298",
+        "longitude": "-35.015",
+        "cep_range": ["54000001","54499999"]
+    },
+    {
+        "cidade": "Uberlândia",
+        "latitude": "-18.9141",
+        "longitude": "-48.2749",
+        "cep_range": ["38400001","38439999"]
+    },
+    {
+        "cidade": "Osasco",
+        "latitude": "-23.5324",
+        "longitude": "-46.7916",
+        "cep_range": ["06000001","06299999"]
+    },
+    {
+        "cidade": "Sorocaba",
+        "latitude": "-23.4969",
+        "longitude": "-47.4451",
+        "cep_range": ["18000001","18109999"]
+    },
+    {
+        "cidade": "Contagem",
+        "latitude": "-19.9321",
+        "longitude": "-44.0539",
+        "cep_range": ["32000001","32399999"]
+    },
+    {
+        "cidade": "Aracaju",
+        "latitude": "-10.9091",
+        "longitude": "-37.0677",
+        "cep_range": ["49000001","49099999"]
+    },
+    {
+        "cidade": "Feira de Santana",
+        "latitude": "-12.2664",
+        "longitude": "-38.9663",
+        "cep_range": ["44000001","44149999"]
+    },
+    {
+        "cidade": "Cuiabá",
+        "latitude": "-15.601",
+        "longitude": "-56.0974",
+        "cep_range": ["78000001","78109999"]
+    },
+    {
+        "cidade": "Joinville",
+        "latitude": "-26.3045",
+        "longitude": "-48.8487",
+        "cep_range": ["89200001","89239999"]
+    },
+    {
+        "cidade": "Aparecida de Goiânia",
+        "latitude": "-16.8198",
+        "longitude": "-49.2469",
+        "cep_range": ["74900001","74999999"]
+    },
+    {
+        "cidade": "Londrina",
+        "latitude": "-23.304",
+        "longitude": "-51.1691",
+        "cep_range": ["86000001","86124999"]
+    },
+    {
+        "cidade": "Juiz de Fora",
+        "latitude": "-21.7595",
+        "longitude": "-43.3398",
+        "cep_range": ["36000001","36107999"]
+    },
+    {
+        "cidade": "Porto Velho",
+        "latitude": "-8.76077",
+        "longitude": "-63.8999",
+        "cep_range": ["76800001","76849999"]
+    },
+    {
+        "cidade": "Ananindeua",
+        "latitude": "-1.36391",
+        "longitude": "-48.3743",
+        "cep_range": ["67000001","67199999"]
+    },
+    {
+        "cidade": "Serra",
+        "latitude": "-20.121",
+        "longitude": "-40.3074",
+        "cep_range": ["29160001","29184999"]
+    },
+    {
+        "cidade": "Caxias do Sul",
+        "latitude": "-29.1629",
+        "longitude": "-51.1792",
+        "cep_range": ["95000001","95149999"]
+    },
+    {
+        "cidade": "Macapá",
+        "latitude": "0.034934",
+        "longitude": "-51.0694",
+        "cep_range": ["68900001","68914999"]
+    },
+    {
+        "cidade": "Niterói",
+        "latitude": "-22.8832",
+        "longitude": "-43.1034",
+        "cep_range": ["24000001","24399999"]
+    },
+    {
+        "cidade": "Florianópolis",
+        "latitude": "-27.5945",
+        "longitude": "-48.5477",
+        "cep_range": ["88000001","88099999"]
+    },
+    {
+        "cidade": "Belford Roxo",
+        "latitude": "-22.764",
+        "longitude": "-43.3992",
+        "cep_range": ["26100001","26199999"]
+    },
+    {
+        "cidade": "Campos dos Goytacazes",
+        "latitude": "-21.7622",
+        "longitude": "-41.3181",
+        "cep_range": ["28000001","28179999"]
+    },
+    {
+        "cidade": "Vila Velha",
+        "latitude": "-20.3417",
+        "longitude": "-40.2875",
+        "cep_range": ["29100001","29129999"]
+    },
+    {
+        "cidade": "Boa Vista",
+        "latitude": "2.82384",
+        "longitude": "-60.6753",
+        "cep_range": ["69300001","69339999"]
+    },
+    {
+        "cidade": "Rio Branco",
+        "latitude": "-9.97499",
+        "longitude": "-67.8243",
+        "cep_range": ["69900001","69924999"]
+    },
+    {
+        "cidade": "Vitória",
+        "latitude": "-20.3155",
+        "longitude": "-40.3128",
+        "cep_range": ["29000001","29099999"]
+    },
+    {
+        "cidade": "Palmas",
+        "latitude": "-26.4839",
+        "longitude": "-51.9888",
+        "cep_range": ["77000001","77299999"]
+    },
+    {
+        "cidade": "Uberaba",
+        "latitude": "-19.7472",
+        "longitude": "-47.9381",
+        "cep_range": ["38000001","38107999"]
+    }
+
+]
